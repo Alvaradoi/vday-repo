@@ -1,0 +1,6 @@
+/* styles.css */
+body { text-align: center; margin-top: 50px; }
+#yesBtn, #noBtn { padding: 10px 20px; font-size: 16px; cursor: pointer; }
+#yesBtn { background-color: green; color: white; }
+#noBtn { background-color: red; color: white; }
+.hidden { display: none; }
